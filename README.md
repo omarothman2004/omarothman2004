@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, my name is Omar 👋
 
-<!--
-**omarothman2004/omarothman2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Final Year Electrical & Electronic Engineering Student**  
+💡 *Passionate about analogue & power electronics, embedded systems, and FPGA design.*
+⚡ *Developed an interest into switch-mode power supply (SMPS) design*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ♟️ Hobbies & Interests 
+
+* ♟️ **ECF Chess Player** - Rated 2000+ ELO in Bullet & Blitz *(Top 15% / 85th percentile globally)*
+
+---
+
+### 🛠️ Software & Programming Skills
+
+* 🎨 **PCB Design:** KiCad, FreeRouting
+* 💻 **Programming:** VHDL, C
+* 🧪 **Simulation:** MATLAB, Simulink, LTspice, Vivado
+* 📦 **Version Control:** Git, GitHub
+
+---
+
+### 🔬 Hardware & Lab Skills
+
+* ⚡
+* 📊 **Test & Measurement:** Experience with using DMMs, LCR meters and bench power supplies
+* 🔌 **Microcontrollers:** Comfortable with programming Arduino and ESP32 modules 
+
+---
