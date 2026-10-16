@@ -1,8 +1,8 @@
 # Hi, my name is Omar 👋
 
 🎓 **Final Year Electrical & Electronic Engineering Student**  
-💡 *Passionate about analogue & power electronics, embedded systems, and FPGA design.*
-⚡ *Developed an interest into switch-mode power supply (SMPS) design*
+💡 **Passionate about analogue & power electronics, embedded systems, and FPGA design.**
+⚡ **Developed an interest into switch-mode power supply (SMPS) design**
 
 ---
 
