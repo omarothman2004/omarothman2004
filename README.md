@@ -1,8 +1,8 @@
 # Hi, my name is Omar 👋
 
 🎓 **Final Year Electrical & Electronic Engineering Student**  
-💡 **Passionate about analogue & power electronics, embedded systems, and FPGA programming**
-⚡ **Developed an interest into switch-mode power supply (SMPS) PCB design**
+💡 **Passionate about analogue & power electronics and FPGA programming**
+⚡ **Interested in switch-mode power supply (SMPS) design**
 
 ---
 
@@ -23,8 +23,7 @@
 
 ### 🔬 Hardware & Lab Skills
 
-* ⚡
 * 📊 **Test & Measurement:** Experience with using DMMs, LCR meters and bench power supplies
-* 🔌 **Microcontrollers:** Comfortable with programming Arduino and ESP32 modules 
+* 🔌 **Microcontrollers:** Comfortable with programming Arduino and ESP32 modules with various sensors 
 
 ---
